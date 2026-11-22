@@ -1,0 +1,1 @@
+# KnowGate-Role-Aware-Enterprise-RAG-Knowledge-Assistant
